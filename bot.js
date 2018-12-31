@@ -1060,4 +1060,4 @@ antispam(client, {
   time: 10, // عدد الوقت الي يجلس لين تسحب رتبة الميوت من الشخص الحسبة برمجية وليست كتابية
 });
 
-client.login('NDE5NjY3NTc0OTM0OTk0OTQ1.Dwr1dw.6gVZk2f0L1-OnGEYlogFrBXVta4');
+client.login(process.env.BOT_TOKEN);
